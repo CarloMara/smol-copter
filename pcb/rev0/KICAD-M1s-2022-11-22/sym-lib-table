@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "KICAD-altium-import")(type "KiCad")(uri "${KIPRJMOD}/KICAD-altium-import.kicad_sym")(options "")(descr ""))
+)

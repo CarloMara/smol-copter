@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KICAD-backups")(type "KiCad")(uri "${KIPRJMOD}/KICAD-M1s-2022-11-22/KICAD-backups")(options "")(descr ""))
+)
